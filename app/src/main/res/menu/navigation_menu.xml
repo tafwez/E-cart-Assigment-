@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/house"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/category"
+            android:icon="@drawable/category"
+            android:title="Categories" />
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+
+
+        <item
+            android:id="@+id/vendor"
+            android:icon="@drawable/vendor"
+            android:title="vendor" />
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/account"
+        android:title="Account" />
+
+
+</menu>
